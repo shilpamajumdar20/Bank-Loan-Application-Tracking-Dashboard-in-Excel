@@ -1,7 +1,7 @@
 # Bank-Loan-Application-Tracking-Dashboard-in-Excel
 Bank Loan Applications Tracking Dashboard is designed to analyze loan application trends, approval rates, interest rate performance.
 
-##Introduction:
+Introduction:
 The process begins with data preparation, where raw information is organized into tables and categorized using formulas to distinguish between good and bad loans. 
 Multiple pivot tables are generated to calculate essential metrics like funded amounts, interest rates, and debt-to-income ratios.
 These figures are visualized through various elements, including donut charts, line graphs, and geographic maps to show loan distribution by state and purpose. 
