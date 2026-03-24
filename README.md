@@ -7,7 +7,7 @@ Multiple pivot tables are generated to calculate essential metrics like funded a
 These figures are visualized through various elements, including donut charts, line graphs, and geographic maps to show loan distribution by state and purpose. 
 Final touches include the addition of interactive slicers and a full screen macro to ensure the dashboard is both user-friendly and visually appealing.
 
-##Steps:
+Steps:
 I have completed the process of creating the bank loan application tracking dashboard by following these steps:
 
 ## **1. Data Structuring and Preparation**
